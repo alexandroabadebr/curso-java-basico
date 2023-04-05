@@ -1,2 +1,2 @@
-# curso-java-basico
-Curso de Java gratuíto do blog loiane.com
+# Curso de Java Básico Gratuito
+Curso de Java gratuito do blog loiane.com
